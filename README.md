@@ -2,6 +2,8 @@
 
 Applicazione desktop **Windows Forms (C#)** con backend **SQL Server** per la gestione e consultazione di un archivio digitale di fotografie legate a diverse categorie di entità: politici, sportivi, artisti e luoghi. Lo strumento facilita la ricerca, la consultazione e l'esplorazione delle fotografie associate a ciascun soggetto, con funzionalità di filtraggio e visualizzazione dinamiche.
 
+![](Screenshot.png)
+
 ## Contesto
 
 Progetto realizzato nell'ambito del percorso di studi serale (indirizzo Informatica), anno scolastico 2024/2025. Il modello Entità-Relazione è stato sviluppato in classe insieme al prof. Ezio Gava, che ha fornito come base un progetto di esempio con la sola entità `Politico`, connesso a un database SQL Server chiamato `ArchivioFotografico`.
